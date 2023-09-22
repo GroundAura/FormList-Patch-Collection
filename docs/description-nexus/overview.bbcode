@@ -1,1 +1,1 @@
-ProjectName is a mod that does a thing.
+My collection of patches, fixes, and tweaks for FormList related stuff. Utilizes FormList Manipulator and Object Categorization Framework where possible.

@@ -1,7 +1,7 @@
-# ProjectName
+# FormList Patch Collection
 
 ---
 
-Welcome to the ProjectName wiki!
+Welcome to the FormList Patch Collection wiki!
 
-ProjectName is a mod for Skyrim Special Edition.
+FormList Patch Collection is a mod for Skyrim Special Edition.
