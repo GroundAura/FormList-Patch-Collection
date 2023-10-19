@@ -1,5 +1,27 @@
 # FormList Patch Collection - Changelog
 
+## Version 3.0.0
+
+- **FOMOD:** Remade and reorganized.
+
+- **Base ESP:** Consolidated the main ITM patches from 3 ESPfe plugins to 1 ESPfe plugin. You should be safe to update mid-game, but I don't know for sure; consider using ReSaver to clean your save if updating on an existing save.
+
+- **Base Patches ():**
+
+- **Optional Tweaks (More Ignition Elements):** Added 6 new options, including Arcane Fire, Coldfire, Lunar, Necrotic Fire, Steam, and Sun.
+
+- **Mod Patches added:** Atronach Forge Expansion Black Soul Gems, Atronach Forged Soul Gems, Crafting Requires Tools, Gather Wilderness Resources, Shovels Bury Bodies, Skills of the Wild, SkyJack Simple Woodcutter, Sneak Tools, The Frozen North.
+
+- **Mod Patches ():**
+
+- **Mod Patches (Immersive Interactions):** Added more support for containers from Legacy of the Dragonborn.
+
+- **Mod Options added:** for Alternate Start and Crafting Requires Tools.
+
+- **Mod Options (Alternate Start):** Added 7 options, including options for Better Starting Spells, Bowl of Reflection, and Race Menu Activator.
+
+- **Mod Options (Crafting Requires Tools):** added 1 option.
+
 ## Version 2.0.2
 
 - Now requires Object Categorization Framework (v4.0.2+) for some patches.
