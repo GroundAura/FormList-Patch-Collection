@@ -2,19 +2,27 @@
 
 ## Version 3.0.0
 
+- **Now requires** Object Categorization Framework (v4.6.0+) for new FLM filters for some patches.
+
 - **FOMOD:** Remade and reorganized.
 
 - **Base ESP:** Consolidated the main ITM patches from 3 ESPfe plugins to 1 ESPfe plugin. You should be safe to update mid-game, but I don't know for sure; consider using ReSaver to clean your save if updating on an existing save.
 
-- **Base Patches ():**
+- **Base Patches (Atronach Forge):** Updated support for Requiem.
+
+- **Base Patches (Hearthfire):** Added support for Wooden Practice Weapons.
+
+- **Base Patches (Planting):** Added support for CACO BS Bruma Patch, CACO BS Bruma CC Goblins Patch, CACO BS Bruma CC Rare Curios Patch, CACO CC Rare Curios Patch, CC Rare Curios BS Bruma Synergy Patch, Plantable Roses of Remembrance. Fixed support for Complete Alchemy & Cooking Overhaul.
 
 - **Optional Tweaks (More Ignition Elements):** Added 6 new options, including Arcane Fire, Coldfire, Lunar, Necrotic Fire, Steam, and Sun.
 
 - **Mod Patches added:** Atronach Forge Expansion Black Soul Gems, Atronach Forged Soul Gems, Crafting Requires Tools, Gather Wilderness Resources, Shovels Bury Bodies, Skills of the Wild, SkyJack Simple Woodcutter, Sneak Tools, The Frozen North.
 
-- **Mod Patches ():**
+- **Mod Patches (CC Survival Mode):** Added support for Starfrost, Requiem.
 
-- **Mod Patches (Immersive Interactions):** Added more support for containers from Legacy of the Dragonborn.
+- **Mod Patches (Complete Alchemy & Cooking Overhaul):** Added support for CACO BS Bruma Patch, CACO BS Bruma CC Goblins Patch, CACO BS Bruma CC Rare Curios Patch, CACO CC Rare Curios Patch, CC Rare Curios BS Bruma Synergy Patch, Plantable Roses of Remembrance. Added ESPfe patch.
+
+- **Mod Patches (Immersive Interactions):** Added more support for containers from Legacy of the Dragonborn. Fixes support for general.
 
 - **Mod Options added:** for Alternate Start and Crafting Requires Tools.
 
