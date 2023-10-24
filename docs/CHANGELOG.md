@@ -2,7 +2,7 @@
 
 ## Version 3.0.0
 
-- **Now requires** Object Categorization Framework (v4.6.0+) for new FLM filters for some patches.
+- **Now requires** Object Categorization Framework (v4.6.0+) for new and changed collections, filters, keywords, and FormLists for some files.
 
 - **FOMOD:** Remade and reorganized.
 
@@ -12,9 +12,11 @@
 
 - **Base Patches (Hearthfire):** Added support for Wooden Practice Weapons.
 
+- **Base Patches (Ignition):** Added more general support. Removed redundant additional support.
+
 - **Base Patches (Planting):** Added support for CACO BS Bruma Patch, CACO BS Bruma CC Goblins Patch, CACO BS Bruma CC Rare Curios Patch, CACO CC Rare Curios Patch, CC Rare Curios BS Bruma Synergy Patch, Plantable Roses of Remembrance. Fixed support for Complete Alchemy & Cooking Overhaul.
 
-- **Optional Tweaks (More Ignition Elements):** Added 6 new options, including Arcane Fire, Coldfire, Lunar, Necrotic Fire, Steam, and Sun.
+- **Optional Tweaks (More Ignition Elements):** Added 6 new options, including Arcane Fire, Ash Fire, Fire/Frost/Shock, Frost/Fire, Lunar, Necrotic Fire, Steam, and Sun. Added more general support to Shock option. Removed redundant additional support from Shock option.
 
 - **Mod Patches added:** Atronach Forge Expansion Black Soul Gems, Atronach Forged Soul Gems, Crafting Requires Tools, Gather Wilderness Resources, Shovels Bury Bodies, Skills of the Wild, SkyJack Simple Woodcutter, Sneak Tools, The Frozen North.
 
