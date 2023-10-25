@@ -1,5 +1,9 @@
 # FormList Patch Collection - Changelog
 
+## Version 3.0.1
+
+- **FOMOD:** Fixed bug that made the Gather Wilderness Resources patch unable to be installed.
+
 ## Version 3.0.0
 
 - **Now requires** Object Categorization Framework (v4.6.0+) for new and changed collections, filters, keywords, and FormLists for some files.
