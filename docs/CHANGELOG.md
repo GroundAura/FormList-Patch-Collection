@@ -1,5 +1,9 @@
 # FormList Patch Collection - Changelog
 
+## Version 3.0.2
+
+- **Base ESP:** Fixed some main ITM patch variations (USSEP + default, USSEP + Arachnomancy, USSEP + Spiderbros).
+
 ## Version 3.0.1
 
 - **FOMOD:** Fixed bug that made the Gather Wilderness Resources patch unable to be installed.
