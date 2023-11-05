@@ -1,5 +1,11 @@
 # FormList Patch Collection - Changelog
 
+## Version 3.1.0
+
+- **Now requires** Object Categorization Framework (v4.7.0+) for new filters.
+
+- **Base Patches (Body Parts):** Added support for [My Lovely Follower Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/75916), [SpiRally's Beautiful Butterflies Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85583).
+
 ## Version 3.0.2
 
 - **Base ESP:** Fixed some main ITM patch variations (USSEP + default, USSEP + Arachnomancy, USSEP + Spiderbros).
