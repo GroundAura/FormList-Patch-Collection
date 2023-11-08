@@ -10,6 +10,10 @@
 
 - **Mod Patches added:** [Take A Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908).
 
+- **Mod Options added:** for [SpiRally's Beautiful Butterflies Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85583).
+
+- **Mod Options ([SpiRally's Beautiful Butterflies Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85583)):** Added option for [CC Saints & Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers).
+
 ## Version 3.0.2
 
 - **Base ESP:** Fixed some main ITM patch variations (USSEP + default, USSEP + Arachnomancy, USSEP + Spiderbros).
