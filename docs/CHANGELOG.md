@@ -4,7 +4,11 @@
 
 - **Now requires** Object Categorization Framework (v4.7.0+) for new filters.
 
+- **FOMOD:** Fixed plugin auto-detect.
+
 - **Base Patches (Body Parts):** Added support for [My Lovely Follower Asset Pack](https://www.nexusmods.com/skyrimspecialedition/mods/75916), [SpiRally's Beautiful Butterflies Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85583).
+
+- **Mod Patches added:** [Take A Peek](https://www.nexusmods.com/skyrimspecialedition/mods/66908).
 
 ## Version 3.0.2
 
