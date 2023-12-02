@@ -1,5 +1,11 @@
 # FormList Patch Collection - Changelog
 
+## Version 3.2.0
+
+- **Now requires** [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469) (v4.8.0+) for new filters for some files.
+
+- **Base Patches (Critters):** Added support for [83Willows 101BugsHD](https://www.nexusmods.com/skyrim/mods/4955).
+
 ## Version 3.1.0
 
 - **Now requires** Object Categorization Framework (v4.7.0+) for new filters.
