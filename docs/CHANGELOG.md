@@ -4,6 +4,10 @@
 
 - **Now requires** [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469) (v4.9.0+) for new filters for some files.
 
+- **Base Patches (Critters):** Added support for [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/).
+
+- **Base Patches (General):** Added support for [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/).
+
 - **Base Patches (Vendor Items):** Added support for [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615).
 
 ## Version 3.2.0
