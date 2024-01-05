@@ -4,6 +4,10 @@
 
 - **Now requires** [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469) (v4.9.0+) for new filters for some files.
 
+- **Base Patches (Atronach Forge):** Added support for [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697).
+
+- **Base Patches (Body Parts):** Added support for [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Zim's Dremora Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/12128).
+
 - **Base Patches (Critters):** Added support for [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/).
 
 - **Base Patches (General):** Added support for [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/).
