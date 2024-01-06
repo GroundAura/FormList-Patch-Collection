@@ -16,6 +16,8 @@
 
 - **Base Patches (Vendor Items):** Added support for [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615).
 
+- **Mod Patches added:** [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846).
+
 ## Version 3.2.0
 
 - **Now requires** [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469) (v4.8.0+) for new filters for some files.
