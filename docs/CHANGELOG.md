@@ -14,6 +14,8 @@
 
 - **Base Patches (General):** Added support for [Improved Fish with Fixes](https://eclipticorrery.com/mod-directory/improved-fish-with-fixes/).
 
+- **Base Patches (Planting):** Added support for [Corkbulb (Ammunition) Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92827).
+
 - **Base Patches (Vendor Items):** Added support for [Inn Soaps](https://www.nexusmods.com/skyrimspecialedition/mods/29615).
 
 - **Mod Patches added:** [Keep it Clean](https://www.nexusmods.com/skyrimspecialedition/mods/17846).
