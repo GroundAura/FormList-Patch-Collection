@@ -4,6 +4,8 @@
 
 - **Now requires** [Object Categorization Framework](https://www.nexusmods.com/skyrimspecialedition/mods/81469) (v4.9.0+) for new filters for some files.
 
+- **Base ESP:** Added support for [Armor Variants Expansion - Atronach Forge Addon](https://www.nexusmods.com/skyrimspecialedition/mods/34100).
+
 - **Base Patches (Atronach Forge):** Added support for [Mihail's Aegis of the Sigil](https://www.nexusmods.com/skyrimspecialedition/mods/64193), [Mihail's Possessed Daedric Armours](https://www.nexusmods.com/skyrimspecialedition/mods/102697).
 
 - **Base Patches (Body Parts):** Added support for [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946), [Zim's Dremora Improvements](https://www.nexusmods.com/skyrimspecialedition/mods/12128).
